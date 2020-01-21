@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-study" />
-        <module name="springCloudStudy" />
         <module name="zuul" />
         <module name="eureka-server" />
       </profile>
